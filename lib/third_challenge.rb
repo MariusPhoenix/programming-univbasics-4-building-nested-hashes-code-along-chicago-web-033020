@@ -12,14 +12,14 @@ def third_challenge
       :hero => {
         :name => "Romeo",
         :age => "15",
-        :status => ""
+        :status => "Alive"
         },
       :hero_friends => []
    }, 
    :capulet => {
       :patriarch => {
-        :name =>{},
-        :age => {}
+        :name => "Lord Capulet",
+        :age => 
         },
       :matriarch => {
         :name => {},
